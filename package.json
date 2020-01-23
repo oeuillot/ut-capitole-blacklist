@@ -1,0 +1,9 @@
+{
+  "name": "ut-capitole-blacklist",
+  "version": "2020.01.23",
+  "description": "",
+  "license": "CreativeCommon",
+  "homepage": "https://github.com/oeuillot/ut-capitole-blacklist",
+  "dependencies": {
+  }
+}
